@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "process/qa/rows/jumping/frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "process/qa/rows/jumping/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13282,
+          "bbox": [
+            25,
+            70,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 1,
+          "file": "process/qa/rows/jumping/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14244,
+          "bbox": [
+            28,
+            40,
+            163,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 263
+        },
+        {
+          "index": 2,
+          "file": "process/qa/rows/jumping/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15110,
+          "bbox": [
+            23,
+            5,
+            168,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 274
+        },
+        {
+          "index": 3,
+          "file": "process/qa/rows/jumping/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14373,
+          "bbox": [
+            27,
+            37,
+            163,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 4,
+          "file": "process/qa/rows/jumping/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12538,
+          "bbox": [
+            24,
+            74,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        }
+      ]
+    }
+  ]
+}

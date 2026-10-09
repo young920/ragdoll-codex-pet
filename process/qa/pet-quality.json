@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "atlas": "process/final/spritesheet-clean.png",
+  "encoded_bytes": 3399448,
+  "sha256": "b7bc20fdafeddc35c6bfb9f72649b58c6a34e99f1101d783f2fce61582088dff",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      201,
+      198,
+      161,
+      194,
+      202
+    ],
+    "airborne_lift_pixels": 41,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      93.0,
+      94.0,
+      93.5,
+      93.5,
+      94.0,
+      94.5,
+      94.5,
+      94.0,
+      93.5,
+      93.5,
+      94.0,
+      94.0,
+      94.0,
+      94.0,
+      93.5,
+      93.5
+    ],
+    "look_widths": [
+      144,
+      142,
+      141,
+      141,
+      140,
+      141,
+      141,
+      142,
+      147,
+      145,
+      144,
+      144,
+      144,
+      146,
+      145,
+      145
+    ],
+    "maximum_center_drift_pixels": 3.0,
+    "maximum_width_ratio": 1.05
+  },
+  "errors": [],
+  "warnings": [
+    "000 has transparent interior hole rows (y=14, y=15, y=16, y=17, +3 more)",
+    "270->292.5 diff is a local outlier (2408 pixels vs neighbor average 1510)"
+  ]
+}

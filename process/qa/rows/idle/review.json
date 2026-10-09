@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "process/qa/rows/idle/frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "process/qa/rows/idle/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23776,
+          "bbox": [
+            13,
+            8,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 337
+        },
+        {
+          "index": 1,
+          "file": "process/qa/rows/idle/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23707,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 352
+        },
+        {
+          "index": 2,
+          "file": "process/qa/rows/idle/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23703,
+          "bbox": [
+            14,
+            7,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 301
+        },
+        {
+          "index": 3,
+          "file": "process/qa/rows/idle/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23996,
+          "bbox": [
+            13,
+            6,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 330
+        },
+        {
+          "index": 4,
+          "file": "process/qa/rows/idle/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23807,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 321
+        },
+        {
+          "index": 5,
+          "file": "process/qa/rows/idle/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23289,
+          "bbox": [
+            15,
+            7,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 335
+        }
+      ]
+    }
+  ]
+}

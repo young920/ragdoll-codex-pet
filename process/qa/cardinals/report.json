@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "process/decoded/look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        542,
+        725
+      ],
+      "used_pixels": 220730,
+      "edge_pixels": 470,
+      "output": "process/qa/cardinals/frames/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        542,
+        0,
+        1085,
+        725
+      ],
+      "used_pixels": 212441,
+      "edge_pixels": 758,
+      "output": "process/qa/cardinals/frames/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1085,
+        0,
+        1628,
+        725
+      ],
+      "used_pixels": 214224,
+      "edge_pixels": 367,
+      "output": "process/qa/cardinals/frames/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1628,
+        0,
+        2170,
+        725
+      ],
+      "used_pixels": 208435,
+      "edge_pixels": 0,
+      "output": "process/qa/cardinals/frames/270.png"
+    }
+  ]
+}
